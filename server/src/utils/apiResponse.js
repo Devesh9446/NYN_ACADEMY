@@ -7,4 +7,10 @@ class apiResponse{
     }
 }
 
+//status code chart
+//information response(100-199)
+//successful response(200-299)
+//redirection message(300-399)
+//client error response(400-499)
+//server error response(500-599)
 export {apiResponse}
